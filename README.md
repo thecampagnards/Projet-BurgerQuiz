@@ -1,1 +1,1 @@
-# Projet-BurgerQuizz
+# Projet-BurgerQuiz
